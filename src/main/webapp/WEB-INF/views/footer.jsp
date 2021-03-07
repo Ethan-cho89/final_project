@@ -170,7 +170,7 @@ input:focus, textarea:focus, select:focus, button:focus{
 		$("#chat_window").toggle(500);
 	});
 	
-	
+	 
 	$("#closebtn").on("click",function(){ // 닫으면 종료
 		
 		closeSocket();
