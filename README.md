@@ -1,5 +1,3 @@
 # final_project
-Hello,
-This is what I made in my last project with my friends.
-It's a B2B service page named 'CONNECTRIP'.
-Thank you for visiting.
+담당 기능 시연 영상 주소 입니다<br>
+https://youtu.be/DdQJDp21ww0
