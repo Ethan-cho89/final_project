@@ -169,7 +169,7 @@ input:focus, textarea:focus, select:focus, button:focus{
 	$("#chat_icon").on("click",function(){ 
 		$("#chat_window").toggle(500);
 	});
-	
+	 
 	 
 	$("#closebtn").on("click",function(){ // 닫으면 종료
 		
