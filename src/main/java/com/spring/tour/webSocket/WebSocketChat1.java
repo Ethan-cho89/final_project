@@ -27,7 +27,7 @@ public class WebSocketChat1 {
 	
 	int cnt = 0;
 	String username = "";
-	private static final List<Session> sessionList = new ArrayList<Session>(); // hashmap 키를 id 벨류를 이름으로?
+	private static final List<Session> sessionList = new ArrayList<Session>();
 	private static final Logger logger = LoggerFactory.getLogger(WebSocketChat1.class);
 	
 	public WebSocketChat1() {
